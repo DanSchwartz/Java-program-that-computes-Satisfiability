@@ -1,0 +1,9 @@
+The Boolean expressions are defined by:
+
+1. The expression variables e1, e2, ... are Boolean expressions,
+
+2. If P and Q are Boolean expressions, then so are ~P, (P V Q), and (P & Q),
+
+3. Nothing else.
+
+It is required that a space occur before and after each occurrence of V and &, but no other spaces are allowed. 
